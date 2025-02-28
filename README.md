@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Java Programming
 
 ## First Semester
 
